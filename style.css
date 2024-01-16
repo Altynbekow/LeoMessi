@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /*overflow: hidden;*/
+    font-family: 'Open Sans', sans-serif;
+    background: black;
+}
+
+/*.bmw h2{*/
+/*    font-family:"Open Sans", sans-serif;*/
+/*}*/
+.bmw h2{
+    color: white;
+    font-size: 90px;
+}
+.text{
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    font-size: 40px;
+
+
+}
+
+.wei{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90px;
+    color: white;
+}
